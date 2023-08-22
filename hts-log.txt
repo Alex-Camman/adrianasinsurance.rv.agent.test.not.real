@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Aug 2023 13:36:24 at http://adrianasinsurance.com/ http://adrianasinsurance.com/insurance/recreational-vehicle-insurance/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://adrianasinsurance.com/ http://adrianasinsurance.com/insurance/recreational-vehicle-insurance/ -O1 "C:\Users\DrugcheckAI\Desktop\web1.1\adrianas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:36:25	Warning: 	Moved Permanently for adrianasinsurance.com/robots.txt
+13:36:25	Warning: 	Redirected link is identical because of 'URL Hack' option: adrianasinsurance.com/robots.txt and https://adrianasinsurance.com/robots.txt
+13:36:25	Warning: 	Warning moved treated for adrianasinsurance.com/robots.txt (real one is https://adrianasinsurance.com/robots.txt)
+13:36:25	Warning: 	Moved Permanently for adrianasinsurance.com/
+13:36:25	Warning: 	Redirected link is identical because of 'URL Hack' option: adrianasinsurance.com/ and https://adrianasinsurance.com/
+13:36:25	Warning: 	File has moved from adrianasinsurance.com/ to https://adrianasinsurance.com/
+13:36:25	Warning: 	Moved Permanently for adrianasinsurance.com/insurance/recreational-vehicle-insurance/
+13:36:25	Warning: 	Redirected link is identical because of 'URL Hack' option: adrianasinsurance.com/insurance/recreational-vehicle-insurance/ and https://adrianasinsurance.com/insurance/recreational-vehicle-insurance/
+13:36:25	Warning: 	File has moved from adrianasinsurance.com/insurance/recreational-vehicle-insurance/ to https://adrianasinsurance.com/insurance/recreational-vehicle-insurance/
+13:36:25	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

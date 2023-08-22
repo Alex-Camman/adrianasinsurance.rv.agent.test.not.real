@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:36:25	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2022%20Aug%202023%2020:36:26%20GMT	http://adrianasinsurance.com/robots.txt		(from )
+13:36:25	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2022%20Aug%202023%2020:36:27%20GMT	http://adrianasinsurance.com/	C:/Users/DrugcheckAI/Desktop/web1.1/adrianas/adrianasinsurance.com/index.html	(from )
+13:36:25	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2022%20Aug%202023%2020:36:27%20GMT	http://adrianasinsurance.com/insurance/recreational-vehicle-insurance/	C:/Users/DrugcheckAI/Desktop/web1.1/adrianas/adrianasinsurance.com/insurance/recreational-vehicle-insurance/index.html	(from )
